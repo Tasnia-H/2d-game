@@ -1,2 +1,2 @@
 # Computer-Graphics
-Project
+Project done using Python Opengl.
