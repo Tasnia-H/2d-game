@@ -1,2 +1,2 @@
 # Computer-Graphics
-Project done using Python Opengl.
+2D Game project done using Python Opengl.
